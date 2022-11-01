@@ -1,0 +1,38 @@
+#container {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: rgb(41, 155, 155);
+    width: 500px;
+}
+
+#playerInput{
+    width: 150px;
+    height: 20px;
+    border-color: black;
+    border-radius: 3px;
+}
+
+#submitGuess{
+    height: 25px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: beige;
+}
+
+#playAgain{
+    height: 25px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: beige;
+}
+
+#hint{
+    height: 25px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: beige;
+}
